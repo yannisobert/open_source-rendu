@@ -4,9 +4,6 @@ declare(strict_types=1);
 
 namespace Yannisobert\OpenSourceRendu;
 
-use DOMNode;
-use DOMNodeList;
-use Masterminds\HTML5;
 use Symfony\Component\DomCrawler\Crawler;
 
 class Catalogue
